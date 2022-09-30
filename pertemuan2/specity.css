@@ -1,0 +1,17 @@
+#p1 { 
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+ul#sabu li{
+    color: blue;
+
+}
+
+ul#sabu li.favorit{
+    color: green;
+    
+}
