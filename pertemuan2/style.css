@@ -1,0 +1,24 @@
+p {
+    font-family: arial;
+    line-height: 2.75em;
+}
+
+i {
+    font-family: arial;
+    color: orange;
+}
+
+h2 {
+    font-family: arial;
+    color: #1B9CFC;
+}
+
+ul#akudankamu li{
+    color: blue;
+
+}
+
+ul#akudankamu li.favorit{
+    color: green;
+    
+}
